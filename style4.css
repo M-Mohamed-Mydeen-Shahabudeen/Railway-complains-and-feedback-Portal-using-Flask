@@ -1,0 +1,23 @@
+body{
+    background-color: #e3d5e6
+}
+
+h1{
+    text-align: center;
+    margin-top: 200px;
+}
+a{
+    text-decoration: none;
+}
+
+button{
+height: 70px;
+width: 180px;
+background-color: lightgreen;
+border: solid 1px white;
+border-radius: 20px;
+margin-left: 550px;
+margin-top: 20px;
+font-size: larger;
+
+}
